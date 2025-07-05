@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SANIYA</h1>
+<h1 align="center">Hi, I'm SANIYA</h1>
 <h3 align="center">3rd-year CSE student at NIT Patna | Passionate about MERN stack development & problem solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saniya-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="saniya-ahmad" /> </p>
