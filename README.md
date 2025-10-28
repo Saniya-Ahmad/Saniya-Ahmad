@@ -2,16 +2,7 @@
 <h3 align="center">3rd-year CSE student at NIT Patna | Passionate about MERN stack development & problem solving.</h3>
 <br/>
 
-<!-- Profile Banner -->
-<p align="center">
-  <!-- <img src="https://socialify.git.ci/Saniya-Ahmad/Saniya-Ahmad/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Saniya-Ahmad" width="700" height="300" /> -->
-  <img src="https://socialify.git.ci/Saniya-Ahmad/Deepfake-Detection/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Deepfake-Detection" width="700" height="300" />
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Saniya-Ahmad&show_icons=true&theme=react" /> -->
-
-</p>
-
-<br/>
 
 <!-- Trophies -->
 <p align="center">
