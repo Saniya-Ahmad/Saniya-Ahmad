@@ -1,5 +1,40 @@
 <h1 align="center">Hi, I'm SANIYA</h1>
 <h3 align="center">3rd-year CSE student at NIT Patna | Passionate about MERN stack development & problem solving.</h3>
+<br/>
+<p align="center">
+  <img src="https://socialify.git.ci/Saniya-Ahmad/Saniya-Ahmad/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Saniya-Ahmad" width="700" height="300" />
+</p>
+<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saniya-Ahmad&theme=onedark&column=-1" alt="Saniya-Ahmad trophies" />
+</p>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saniya-Ahmad&theme=github-dark-dimmed&custom_title=Saniya%20Ahmad%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(390px, 1fr)); gap: 10px; justify-items: center;">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img width="390" src="https://streak-stats.demolab.com/?user=Saniya-Ahmad&theme=react&border=61dafb&hide_border=true" alt="Saniya-Ahmad streak stats" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Saniya-Ahmad&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Saniya-Ahmad GitHub stats" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya-Ahmad&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Saniya-Ahmad Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saniya-Ahmad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Saniya-Ahmad Activity Graph"/>
+
 
  
  <h3 align="left">Languages and Tools:</h3>
