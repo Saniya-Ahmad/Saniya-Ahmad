@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Saniya-Ahmad&theme=onedark&column=-1" alt="Saniya-Ahmad trophies" />
 </p>
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saniya-Ahmad&theme=github-dark-dimmed&custom_title=Saniya%20Ahmad%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -33,7 +32,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saniya-Ahmad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Saniya-Ahmad Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saniya-Ahmad&theme=react-dark&bg_color=20232a&hide_border=true&days=30&custom_title=Saniya%20Ahmad%20Activity%20Graph%20(Last%2030%20Days)" width="100%" alt="Saniya-Ahmad Monthly Activity Graph"/>
 
 
  
